@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &924318621934074501
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 837077258720403079, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: pizzaStep
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6659718544797325377, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8334303455259021496, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_Name
+      value: Cheese
+      objectReference: {fileID: 0}
+    - target: {fileID: 8555564349096580051, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_Color.b
+      value: 0.26667255
+      objectReference: {fileID: 0}
+    - target: {fileID: 8555564349096580051, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_Color.g
+      value: 0.7142476
+      objectReference: {fileID: 0}
+    - target: {fileID: 8555564349096580051, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9528302
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a0ac16a36115b944a9f8e359a4343e6, type: 3}

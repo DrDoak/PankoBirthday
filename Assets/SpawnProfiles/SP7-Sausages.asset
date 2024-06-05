@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eec04d315f32e4049a7e96d1c9566d37, type: 3}
+  m_Name: SP7-Sausages
+  m_EditorClassIdentifier: 
+  MaxPizzaLevel: 7
+  allPossibleDrops:
+  - rateRelative: 0
+    dropType: 1
+    objectReference: {fileID: 0}
+    delayBetweenSpawns: {x: 3, y: 5}
+    speedScaleRange: {x: 3, y: 5}
+  - rateRelative: 0
+    dropType: 0
+    objectReference: {fileID: 0}
+    delayBetweenSpawns: {x: 2, y: 4}
+    speedScaleRange: {x: 3, y: 6}
+  - rateRelative: 0
+    dropType: 2
+    objectReference: {fileID: 9070653874815949212, guid: c764c81592c7bc44fbffd53a85d279fc, type: 3}
+    delayBetweenSpawns: {x: 3, y: 4}
+    speedScaleRange: {x: 3, y: 5}
+  - rateRelative: 0
+    dropType: 2
+    objectReference: {fileID: 8227569141445664859, guid: 734275020a666d045874b3d7b7ca23ca, type: 3}
+    delayBetweenSpawns: {x: 1, y: 2}
+    speedScaleRange: {x: 3, y: 5}

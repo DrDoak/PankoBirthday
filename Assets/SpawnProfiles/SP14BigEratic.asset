@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eec04d315f32e4049a7e96d1c9566d37, type: 3}
+  m_Name: SP14BigEratic
+  m_EditorClassIdentifier: 
+  MaxPizzaLevel: 14
+  allPossibleDrops:
+  - rateRelative: 0
+    dropType: 2
+    objectReference: {fileID: 9070653874815949212, guid: c764c81592c7bc44fbffd53a85d279fc, type: 3}
+    delayBetweenSpawns: {x: 3, y: 4}
+    speedScaleRange: {x: 2, y: 2}
+    useFixedSpawnRange: 0
+    fixedSpawnRange: {x: 0, y: 0}
+    homing: 0
+    sine: 1
+    SineFrequency: 18
+    XSpeedScale: 10
+  - rateRelative: 0
+    dropType: 0
+    objectReference: {fileID: 9070653874815949212, guid: c764c81592c7bc44fbffd53a85d279fc, type: 3}
+    delayBetweenSpawns: {x: 1.5, y: 3}
+    speedScaleRange: {x: 4, y: 5}
+    useFixedSpawnRange: 0
+    fixedSpawnRange: {x: 0, y: 0}
+    homing: 0
+    sine: 0
+    SineFrequency: 10
+    XSpeedScale: 1
+  - rateRelative: 0
+    dropType: 1
+    objectReference: {fileID: 9070653874815949212, guid: c764c81592c7bc44fbffd53a85d279fc, type: 3}
+    delayBetweenSpawns: {x: 2, y: 4}
+    speedScaleRange: {x: 4, y: 5}
+    useFixedSpawnRange: 0
+    fixedSpawnRange: {x: 0, y: 0}
+    homing: 0
+    sine: 0
+    SineFrequency: 10
+    XSpeedScale: 1
+  - rateRelative: 0
+    dropType: 2
+    objectReference: {fileID: 9070653874815949212, guid: c764c81592c7bc44fbffd53a85d279fc, type: 3}
+    delayBetweenSpawns: {x: 5, y: 6}
+    speedScaleRange: {x: 4, y: 5}
+    useFixedSpawnRange: 0
+    fixedSpawnRange: {x: 0, y: 0}
+    homing: 0
+    sine: 0
+    SineFrequency: 10
+    XSpeedScale: 1
+  - rateRelative: 0
+    dropType: 2
+    objectReference: {fileID: 4871245954252095327, guid: 653d4b13b98f75641acbf482122329c5, type: 3}
+    delayBetweenSpawns: {x: 5, y: 5}
+    speedScaleRange: {x: 3, y: 3}
+    useFixedSpawnRange: 0
+    fixedSpawnRange: {x: 0, y: 0}
+    homing: 0
+    sine: 1
+    SineFrequency: 2
+    XSpeedScale: 10
